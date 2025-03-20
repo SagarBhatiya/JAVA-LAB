@@ -19,5 +19,6 @@ public class qs4{
             sum/=10;
         }
         System.out.println("New Num:"+rev);
+        sc.close();
     }
 }
