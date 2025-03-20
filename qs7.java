@@ -20,7 +20,7 @@ public class qs7 {
         }
 
         
-        boolean found = false;
+       
         for (int i = 0; i < m; i++) {
             int minRow = arr[i][0];
             int minCol = 0;
